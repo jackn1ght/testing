@@ -1,5 +1,6 @@
 {
   "name": "testing",
+  "author": "Lois Christian",
   "version": "1.0.0",
   "description": "just test",
   "main": "index.js",
@@ -13,7 +14,6 @@
   "keywords": [
     "test"
   ],
-  "author": "Lois Christian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jackn1ght/testing/issues"
