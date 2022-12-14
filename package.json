@@ -1,3 +1,22 @@
 {
-    "author": "Lois Christian",
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackn1ght/testing.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Lois Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackn1ght/testing/issues"
+  },
+  "homepage": "https://github.com/jackn1ght/testing#readme"
 }
